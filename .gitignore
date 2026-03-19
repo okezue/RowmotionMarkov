@@ -1,0 +1,11 @@
+/.lake
+*.olean
+*.ilean
+*.trace
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.spl
+*.synctex.gz
