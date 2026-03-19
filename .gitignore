@@ -9,3 +9,6 @@
 *.out
 *.spl
 *.synctex.gz
+paper.tex
+paper.pdf
+refs.bib
